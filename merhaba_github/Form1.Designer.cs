@@ -49,7 +49,7 @@
             // 
             pictureBox1.BackColor = SystemColors.Info;
             pictureBox1.Image = Properties.Resources.github_logo;
-            pictureBox1.Location = new Point(238, 12);
+            pictureBox1.Location = new Point(189, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(259, 270);
             pictureBox1.TabIndex = 1;
